@@ -1,0 +1,36 @@
+body {
+  font-size: 6em; 
+  text-align: center;
+}
+
+.count {
+  margin: 0;
+  font-weight: bold;
+  color: #888;
+}
+
+.wrap {
+  margin-top: 20px;
+  padding: 80px 40px;
+  background-color: #666;
+  font-weight: bold;
+  color: #fff;
+}
+
+.typed {
+  color: lightgreen;
+}
+
+.mistyped {
+  background-color: red;
+}
+
+#start {
+font-size: 50px;
+padding: 0 20px;
+
+#count-text {
+  margin: 0;
+  font-weight: bold;
+  color: #888;
+}
